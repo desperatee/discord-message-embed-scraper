@@ -1,0 +1,6 @@
+.idea
+images
+logs
+**__pycache__**
+program_data/acc_info.json
+program_data/browser_state.json
