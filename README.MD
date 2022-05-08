@@ -6,4 +6,4 @@ Based on playwright
 [] Modify the downloader.py file located in the modules folder with your channel URL and search term.
 [] py -m modules.downloader (from folder root. relax and enjoy)
 
-You can pair this with [my fork of TFich's collage maker, which supports local files.](https://github.com/desperatee/local-collage-maker)
+You can pair this with [my fork of TFich's collage maker, which supports local files.](https://github.com/desperatee/local-collage-maker) 
